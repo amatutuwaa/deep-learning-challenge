@@ -54,4 +54,17 @@ In this step, a report was written on the performance of the deep learning model
 4. A summary of the overall results of the deep learning model, along with a recommendation for a different model that could potentially solve the classification problem.
 
 
+#### Technologies Used
 
+The following technologies were used in this project:
+
+- Python
+- Pandas
+- Scikit-learn
+- TensorFlow
+- Keras
+- Google Colab
+
+#### Final Thoughts
+
+In conclusion, this project demonstrated the application of deep learning techniques to create a binary classifier for predicting the success of organizations funded by Alphabet Soup. It showcased the importance of data preprocessing, model optimization, and careful evaluation. With further exploration and fine-tuning, it is possible to achieve even better results or consider alternative models that may address the classification problem in a different way.
